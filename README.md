@@ -32,7 +32,7 @@ rh_username: "<your_official_redhat_username>"
 
 - **Controller UI** → **Automation Execution** →  **Infrastructure** → **Execution Environments** → **Create execution environment**
   - **Name:** `ansible-platform-ee`
-  - **Image:** `quay.io/rothakur18/platform-ee01`
+  - **Image:** `quay.io/rothakur18/platform-ee02`
   - **Pull:** `Always pull container before running`
   - **Description:** `EE for platform testathon`
   - **Organization:** `default`
